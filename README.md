@@ -37,6 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![image](https://github.com/Hezron-lix/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/139331337/2e3d3375-f05b-4241-acc2-25fe63685f25)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
